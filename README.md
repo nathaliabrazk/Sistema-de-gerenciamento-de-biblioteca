@@ -1,5 +1,5 @@
 # **Sistema-de-gerenciamento-de-biblioteca**
-##Tema - Sistema de gerenciamento de biblioteca: permitindo cadastro de livros,
+## Tema - Sistema de gerenciamento de biblioteca: permitindo cadastro de livros,
 empréstimos, devoluções, etc.
 Projeto final do curso Somos-Tech Java 2023
 Critérios:
