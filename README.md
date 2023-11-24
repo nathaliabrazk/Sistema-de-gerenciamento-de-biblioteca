@@ -6,3 +6,5 @@ Critérios:
 * Arrays;
 * Funções;
 * Orientação a objeto(o que já foi visto de estrutura de classes).
+Tema - Sistema de gerenciamento de biblioteca: permitindo cadastro de livros,
+empréstimos, devoluções, etc.
